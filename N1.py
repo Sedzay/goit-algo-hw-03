@@ -10,4 +10,4 @@ def get_days_from_today(date):
     date_now = dtdt.today()
     return (date_now-date_p).days
     
-print(get_days_from_today("20-12-19"))
+print(get_days_from_today("2025-12-19"))
